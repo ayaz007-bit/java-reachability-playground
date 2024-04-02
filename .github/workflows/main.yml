@@ -1,4 +1,4 @@
-name: Example workflow for Maven using Snyk 123
+name: Example workflow for Maven using Snyk 123456
 on: push
 jobs:
   security:
